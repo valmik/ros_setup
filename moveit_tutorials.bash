@@ -1,6 +1,7 @@
 #!/bin/bash
 # From docs.ros.org/kinetic/api/moveit_tutorials/html/doc/pr2_tutorials/planning/src/doc/move_group_interface_tutorial.html
 
+echo "****************************** Installing PR2 Moveit Tutorials"
 source /opt/ros/kinetic/setup.bash
 
 mkdir -p ~/ros_workspaces/moveit_practice_ws/src
