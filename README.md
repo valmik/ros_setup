@@ -9,6 +9,6 @@ git clone https://github.com/valmik/ros_install
 
 cd ros_install
 
-chmod +x basic_install.bash
+chmod +x ros_install.bash
 
-./basic_install.bash
+./ros_install.bash
