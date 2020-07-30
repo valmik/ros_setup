@@ -5,7 +5,7 @@ These are all designed to be run on a blank ubuntu 16.04 installation. Just run
 
 sudo apt install git
 
-git clone https://github.com/valmik/ros_install
+git clone https://github.com/valmik/ros_setup
 
 cd ros_install
 
